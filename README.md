@@ -5,7 +5,7 @@
       <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
     </p>
     <h2>
-      Currently studing my master degree in <a href="https://web.dmi.unict.it/corsi/lm-18">Computer Science</a> at 📍Catania
+      Currently studing for my master degree in <a href="https://web.dmi.unict.it/corsi/lm-18">Computer Science</a> at 📍Catania
     </h2>
     Find me here: <br><br>
     <a href="https://www.instagram.com/giada_margarone/">
