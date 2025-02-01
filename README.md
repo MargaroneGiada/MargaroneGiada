@@ -9,7 +9,10 @@
     Find me here: <br><br>
     <div style="display: flex; justify-content: center; align-items: center;">
       <a href="https://www.instagram.com/giada_margarone/"><img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" style="display: block;"/>
-      </a><a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="display: block;"/>
+      </a>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="display: block;"/>
       </a>
     </div>
   </body>
