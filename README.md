@@ -12,7 +12,7 @@
       <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     </a>
     <a href="https://www.linkedin.com/in/giada-margarone-352510240/">
-      <img height="50" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
+      <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>
     </a>
   </body>
 </html>
