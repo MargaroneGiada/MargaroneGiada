@@ -7,12 +7,12 @@
       Currently studying for my master's degree in <a href="https://web.dmi.unict.it/corsi/lm-18">Computer Science</a> at 📍Catania
     </h2>
     Find me here: <br><br>
-    <div style="display: inline; justify-content: center; align-items: center;">
-      <a href="https://www.instagram.com/giada_margarone/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" style="display: inline;"/>
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <a href="https://www.instagram.com/giada_margarone/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" style="display: box;"/>
       </a>
     </div>
-    <div style="display: inline; justify-content: center; align-items: center;">
-      <a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="display: inline;"/>
+    <div style="display: flex; justify-content: center; align-items: center;">
+      <a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="display: box;"/>
       </a>
     </div>
   </body>
