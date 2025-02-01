@@ -1,8 +1,7 @@
-###
 <html>
   <body>
     <p align="center">
-      <img src="https://capsule-render.vercel.app/api?text=Hello%20World!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+      <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
     </p>
     <h2>
       Currently studying for my master's degree in <a href="https://web.dmi.unict.it/corsi/lm-18">Computer Science</a> at 📍Catania
