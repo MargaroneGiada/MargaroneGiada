@@ -7,13 +7,21 @@
       Currently studying for my master's degree in <a href="https://web.dmi.unict.it/corsi/lm-18">Computer Science</a> at 📍Catania
     </h2>
     Find me here: <br><br>
-    <div style="display: inline; justify-content: center; align-items: center;">
-      <a href="https://www.instagram.com/giada_margarone/" style="display: inline;"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" style="display: inline;"/>
-      </a> <h4>Instagram</h4>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <a href="https://www.linkedin.com/in/giada-margarone-352510240/" style="display: inline;"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="display:inline;"/>
-      </a> <h4>LinkedIn</h4>
+    <div style="display: flex; justify-content: center; gap: 50px; align-items: center;">
+      <!-- Instagram -->
+      <div style="display: inline-flex; flex-direction: column; align-items: center;">
+        <a href="https://www.instagram.com/giada_margarone/">
+          <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/>
+        </a>
+        <h4 style="margin: 5px 0 0 0;">Instagram</h4>
+      </div>
+      <!-- LinkedIn -->
+      <div style="display: inline-flex; flex-direction: column; align-items: center;">
+        <a href="https://www.linkedin.com/in/giada-margarone-352510240/">
+          <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>
+        </a>
+        <h4 style="margin: 5px 0 0 0;">LinkedIn</h4>
+      </div>
     </div>
   </body>
 </html>
