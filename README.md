@@ -7,7 +7,7 @@
       Currently studying for my master's degree in <a href="https://web.dmi.unict.it/corsi/lm-18">Computer Science</a> at 📍Catania
     </h2>
     Find me here: <br><br>
-    <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="display: inline; justify-content: center; align-items: center;">
       <a href="https://www.instagram.com/giada_margarone/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" style="display: inline;"/>
       </a> <h4>Instagram</h4>
     </div>
