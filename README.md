@@ -9,7 +9,7 @@
     </h2>
     Find me here: <br><br>
     
-    <div style="display: flex; justify-content: center; gap: 50px; align-items: center;">
+   <div style="display: flex; justify-content: center; gap: 50px; align-items: center;">
       <!-- Instagram -->
       <a href="https://www.instagram.com/giada_margarone/" 
          style="text-decoration: none; border: none; outline: none;">
