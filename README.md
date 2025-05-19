@@ -9,17 +9,8 @@
     </h2>
     Find me here: <br><br>
     
-   <div style="display: flex; justify-content: center; gap: 50px; align-items: center;">
-      <!-- Instagram -->
-      <a href="https://www.instagram.com/giada_margarone/" 
-         style="text-decoration: none; border: none; outline: none;">
-        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/>
-      </a>
-      <!-- LinkedIn -->
-      <a href="https://www.linkedin.com/in/giada-margarone-352510240/" 
-         style="text-decoration: none; border: none; outline: none;">
-        <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/>
-      </a>
-    </div>
+   <p align="center">
+      <a href="https://www.instagram.com/giada_margarone/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a><a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a>
+  </p>
   </body>
 </html>
