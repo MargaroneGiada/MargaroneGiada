@@ -9,8 +9,8 @@
     </h2>
     Find me here: <br><br>
     
-   <p margin="10px">
-      <a href="https://www.instagram.com/giada_margarone/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a><a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a>
+   <p>
+      <a href="https://www.instagram.com/giada_margarone/" margin="10px"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a><a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a>
   </p>
   </body>
 </html>
