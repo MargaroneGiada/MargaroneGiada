@@ -10,7 +10,7 @@
     Find me here: <br><br>
     
    <p>
-  <a href="https://www.instagram.com/giada_margarone/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a><img src="https://via.placeholder.com/20x1/ffffff00/ffffff00.png" width="20px" height="1"/><a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a><a href="giadamarg@gmail.com"><img height="50px" src="https://cdn-icons-png.flaticon.com/512/8743/8743964.png"/></a>
+  <a href="https://www.instagram.com/giada_margarone/"><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"/></a><img src="https://via.placeholder.com/20x1/ffffff00/ffffff00.png" width="20px" height="1"/><a href="https://www.linkedin.com/in/giada-margarone-352510240/"><img height="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"/></a><img src="https://via.placeholder.com/20x1/ffffff00/ffffff00.png" width="20px" height="1"/><a href="mailto:giadamarg@gmail.com"><img height="50px" src="https://cdn-icons-png.flaticon.com/512/8743/8743964.png"/></a>
 </p>
 
   </body>
